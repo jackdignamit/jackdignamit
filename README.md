@@ -22,4 +22,4 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 ## 👋 Connect with me!👋
 
-[Linked-in Profile](https://linkedin.com/in/jack-dignam/)
+[Linkedin](https://linkedin.com/in/jack-dignam/)
