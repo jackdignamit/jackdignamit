@@ -6,7 +6,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 ## 🕵️ Threat Hunting and Security Operations 🚨
 
-- **[ (WIP) Azure Honeypot + SIEM Attack Analysis Lab](https://github.com/jackdignamit/Azure-Honeypot-SIEM-Attack-Analysis-Lab)**
+- **[ Azure Honeypot + SIEM Attack Analysis Lab](https://github.com/jackdignamit/Azure-Honeypot-SIEM-Attack-Analysis-Lab)**
 
 ## ⚠️ Vulnerability Management Projects ⚠️
 
