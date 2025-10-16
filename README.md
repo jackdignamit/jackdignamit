@@ -10,12 +10,14 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 ## 🖥️ Digital Forensics and Investigations 💽
 
-- **[ (WIP) ACME Medical Center Exam & Findings (SIMULATION)](https://github.com/jackdignamit/Vulnerability-Management-Program-Implementation)**
+- **[ (WIP) ACME Medical Center Exam & Findings (SIMULATION)](https://github.com/jackdignamit/ACME-Medical-Center-USB-Forensic-Examination-Simulation)**
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-## 👋 Connect with me!👋
+## 👋 More from me!👋
 
 [Linkedin](https://linkedin.com/in/jack-dignam/)
+
+[Medium](https://medium.com/@jackdignamit)
