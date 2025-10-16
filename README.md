@@ -10,7 +10,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 ## 🖥️ Digital Forensics and Investigations 💽
 
-- **[ (WIP) ACME Medical Center - USB Forensic Examination](https://github.com/jackdignamit/ACME-Medical-Center-USB-Forensic-Examination-Simulation)**
+- **[ (WIP) ACME Medical Center - USB Forensic Examination (Simulation)](https://github.com/jackdignamit/ACME-Medical-Center-USB-Forensic-Examination-Simulation)**
 
 
 
