@@ -8,13 +8,9 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 - **[ Azure Honeypot + SIEM Attack Analysis Lab](https://github.com/jackdignamit/Azure-Honeypot-SIEM-Attack-Analysis-Lab)**
 
-## ⚠️ Vulnerability Management Projects ⚠️
-
-- **[ (WIP) Vulnerability Management Program Implementation](https://github.com/jackdignamit/Vulnerability-Management-Program-Implementation)**
-
 ## 🖥️ Digital Forensics and Investigations 💽
 
-- (soon)
+- **[ (WIP) ACME Medical Center Exam & Findings (SIMULATION)](https://github.com/jackdignamit/Vulnerability-Management-Program-Implementation)**
 
 
 
