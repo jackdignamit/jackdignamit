@@ -20,4 +20,4 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 [Linkedin](https://linkedin.com/in/jack-dignam/)
 
-[Medium (WIP)](https://medium.com/@jackdignamit)
+[CTF/Sherlock Walkthroughs (Medium)](https://medium.com/@jackdignamit)
