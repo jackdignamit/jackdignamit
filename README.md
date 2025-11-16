@@ -4,9 +4,11 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-## 🕵️ Threat Hunting and Security Operations 🚨
+## 🕵️ Security Operations and Threat Hunting 🚨
 
 - **[ Azure Honeypot + SIEM Attack Analysis Lab](https://github.com/jackdignamit/Azure-Honeypot-SIEM-Attack-Analysis-Lab)**
+- **[ Automated SOC Workflow: Tines SOAR Integrated with LimaCharlie EDR](https://github.com/jackdignamit/-WIP-Endpoint-Detection-Automated-Response-EDR-SOAR-Security-Workflow)**
+- 
 
 ## 🖥️ Digital Forensics and Investigations 💽
 
