@@ -10,7 +10,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
   
 - **[Tines (SOAR) + LimaCharlie (EDR) Automated Incident Response](https://github.com/jackdignamit/Tines-SOAR-and-LimaCharlie-EDR-Automated-Incident-Response-Project)**
 
-- **[(WIP) SOC Automation with Wazuh, TheHive, & Shuffle](https://github.com/jackdignamit/SOC-Automation-with-Wazuh-TheHive-and-Shuffle)**
+- **[SOC Automation with Wazuh, TheHive, & Shuffle](https://github.com/jackdignamit/SOC-Automation-with-Wazuh-TheHive-and-Shuffle)**
 
 ## 🖥️ Digital Forensics and Investigations 🖥️
 
