@@ -10,7 +10,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 - **[Azure Honeypot + SIEM Attack Analysis Lab](https://github.com/jackdignamit/Azure-Honeypot-SIEM-Attack-Analysis-Lab)**
 
-- **[SOAR Integration Toolkit: Wazuh + Shuffle + TheHive Workflow](https://github.com/jackdignamit/SOAR-Integration-Toolkit-Wazuh-Shuffle-TheHive-Workflow)**
+- **[SOAR Integration Toolkit: Wazuh, Shuffle, & TheHive Workflow](https://github.com/jackdignamit/SOAR-Integration-Toolkit-Wazuh-Shuffle-TheHive-Workflow)**
 
 ---
 
