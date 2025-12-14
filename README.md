@@ -4,7 +4,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-##  🚨 Security Operations and Threat Hunting 🚨
+##  Security Operations and Threat Hunting
   
 - **[Tines (SOAR) & LimaCharlie (EDR) Automated Incident Response](https://github.com/jackdignamit/Tines-SOAR-and-LimaCharlie-EDR-Automated-Incident-Response-Project)**
 
@@ -12,7 +12,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 - **[SOC Automation with Wazuh, TheHive, & Shuffle](https://github.com/jackdignamit/SOC-Automation-with-Wazuh-TheHive-and-Shuffle)**
 
-## 🖥️ Digital Forensics and Investigations 🖥️
+## Digital Forensics and Investigations
 
 - **[ ACME Medical Center - USB Forensic Examination (Simulation)](https://github.com/jackdignamit/ACME-Medical-Center-USB-Forensic-Examination-Simulation)**
 
