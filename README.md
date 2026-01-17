@@ -15,7 +15,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 ## IT Helpdesk & Technical Support
 
-- **[(WIP) osTicket IT Support Lab: End-User Troubleshooting & Escalation](https://github.com/jackdignamit/osTicket-IT-Support-Lab-End-User-Troubleshooting-Escalation)**
+- **[osTicket IT Support Lab: End-User Troubleshooting & Escalation](https://github.com/jackdignamit/osTicket-IT-Support-Lab-End-User-Troubleshooting-Escalation)**
 
 ---
 
