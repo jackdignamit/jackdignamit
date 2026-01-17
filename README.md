@@ -2,9 +2,12 @@
 
 I'm deeply interested in cybersecurity and enjoy solving challenges through hands-on projects. From vulnerability management to threat detection, these experiences help me grow while contributing in the ever-evolving landscape of cybersecurity. I seek to support my organization's success and make a positive impact by applying my skills effectively. I'd love for you to check out my projects and see how I've contributed to strengthening security operations and processes!
 
-<a href="https://medium.com/@jackdignamit">Hack The Box Writeups (Medium)</a>
-
-<a href="https://linkedin.com/in/jack-dignam/">Linkedin</a>
+<p align="center">
+  <a href="https://medium.com/@jackdignamit">CTF/Sherlock Walkthroughs (Medium)</a>
+</p>
+<p align="center">
+ <a href="https://linkedin.com/in/jack-dignam/">Linkedin Profile</a>
+</p>
 
 <p align="center"><img width="160" height="160" alt="6843095" src="https://github.com/user-attachments/assets/e0e09085-0206-4531-884e-29a87842a3b0" /></p>
 
