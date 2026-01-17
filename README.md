@@ -10,7 +10,7 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
   <a href="https://medium.com/@jackdignamit">CTF/Sherlock Walkthroughs (Medium)</a>
 </p>
 
-<p align="center"><img width="910" height="242" alt="cybersecurity-banner" src="https://github.com/user-attachments/assets/57b0a6dc-3a0f-4e8b-ab75-f64df0f9b66e"/></p>
+<p align="center"><img width="256" height="256" alt="6843095" src="https://github.com/user-attachments/assets/e0e09085-0206-4531-884e-29a87842a3b0" /></p>
 
 ---
 
