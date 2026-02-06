@@ -4,9 +4,6 @@ I'm deeply interested in cybersecurity and enjoy solving challenges through hand
 
 <p align="center">
   <a href="https://medium.com/@jackdignamit">CTF/Sherlock Walkthroughs (Medium) </a>
-</p>
-<p align="center"> (I am currently falsely suspended on Medium for alleged 'spam' posts, even though I only post once every two weeks. I am appealing the suspension, so my original posts will be archived here in the meantime.)
-</p>
 <p align="center">
  <a href="https://linkedin.com/in/jack-dignam/">Linkedin Profile</a>
 </p>
